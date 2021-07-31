@@ -2,7 +2,7 @@
 	<body>
            <h1> Minha pagina Html </h1>
 	h1>
-	   <p> Outro conteúdo adicionado para gerar problema </p>	 
+	<h2> Alteração na pagina HTML hoje</h2>
 	</body>
 
 </html>
